@@ -1,0 +1,56 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "setup",
+        "resultFileName": "Setup"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1688288078852,
+      "duration": 25356,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "StartCall",
+        "resultFileName": "StartCall",
+        "sign": "TestSessions.StartCall()[pri:1, instance:Pages.TestSessions@184cf7cf]"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1688288104239,
+      "duration": 13797,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "exit",
+        "resultFileName": "Exit"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1688288118039,
+      "duration": 496,
+      "result": "pass",
+      "passPer": 0.0
+    }
+  ]
+}

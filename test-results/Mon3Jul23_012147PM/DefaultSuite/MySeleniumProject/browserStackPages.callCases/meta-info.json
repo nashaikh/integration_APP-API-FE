@@ -1,0 +1,56 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "setup",
+        "resultFileName": "Setup"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1688372492215,
+      "duration": 15687,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "navigate_to_homepage_click_on_getstarted",
+        "resultFileName": "Navigate_to_homepage_click_on_getstarted",
+        "sign": "callCases.navigate_to_homepage_click_on_getstarted()[pri:1, instance:browserStackPages.callCases@7f1302d6]"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1688372507920,
+      "duration": 36437,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "finishTest",
+        "resultFileName": "FinishTest"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1688372544372,
+      "duration": 1085,
+      "result": "pass",
+      "passPer": 0.0
+    }
+  ]
+}

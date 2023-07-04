@@ -1,0 +1,30 @@
+{
+  "total": 3,
+  "pass": 3,
+  "fail": 0,
+  "skip": 0,
+  "classes": [
+    "browserStackPages.callCases"
+  ],
+  "envInfo": {
+    "isfw-build-info": {
+      "qaf-Type": "core",
+      "qaf-Revision": "0b",
+      "qaf-Version": "3.2",
+      "qaf-Build-Time": "02-Oct-2022 23:11:27"
+    },
+    "run-parameters": {},
+    "execution-env-info": {
+      "java.arch": "64",
+      "java.vendor": "Oracle Corporation",
+      "java.version": "1.8.0_321",
+      "os.arch": "amd64",
+      "host": "PC-0023",
+      "os.name": "Windows 11",
+      "user.name": "NaumanShaikh",
+      "os.version": "10.0"
+    }
+  },
+  "startTime": 1688372129235,
+  "endTime": 1688372162571
+}

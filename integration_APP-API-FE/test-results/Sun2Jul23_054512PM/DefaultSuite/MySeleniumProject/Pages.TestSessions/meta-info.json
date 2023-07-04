@@ -1,0 +1,39 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "setup",
+        "resultFileName": "Setup"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1688301908425,
+      "duration": 3939,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "navigate_to_homepage_click_on_getstarted",
+        "resultFileName": "Navigate_to_homepage_click_on_getstarted",
+        "sign": "TestSessions.navigate_to_homepage_click_on_getstarted()[pri:1, instance:Pages.TestSessions@4fe767f3]"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1688301912390,
+      "duration": 13,
+      "result": "fail",
+      "passPer": 0.0
+    }
+  ]
+}

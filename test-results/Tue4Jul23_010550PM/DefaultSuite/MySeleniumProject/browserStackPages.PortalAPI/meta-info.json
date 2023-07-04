@@ -1,0 +1,22 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "testPostRequest",
+        "resultFileName": "TestPostRequest",
+        "sign": "PortalAPI.testPostRequest()[pri:0, instance:browserStackPages.PortalAPI@11a9e7c8]"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1688457948006,
+      "duration": 2208,
+      "result": "fail",
+      "passPer": 0.0
+    }
+  ]
+}

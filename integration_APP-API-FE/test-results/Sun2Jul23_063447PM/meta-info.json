@@ -1,0 +1,13 @@
+{
+  "name": "Default Suite",
+  "status": "fail",
+  "tests": [
+    "DefaultSuite/MySeleniumProject"
+  ],
+  "total": 3,
+  "pass": 1,
+  "fail": 2,
+  "skip": 0,
+  "startTime": 1688304881425,
+  "endTime": 1688304887402
+}
